@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">nav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="location">CBA</string>
+    <string name="class_code">COMP7506-2A</string>
+    <string name="class_time">09:30 - 12:30</string>
+</resources>
